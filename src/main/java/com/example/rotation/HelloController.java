@@ -41,7 +41,7 @@ public class HelloController implements Initializable {
         ObservableList<PieChart.Data> piChartData = FXCollections.observableArrayList (
                 new PieChart.Data ("Zx81", 20),
                 new PieChart.Data ("Zx Spectrum", 14),
-                new PieChart.Data ("C64", 40),
+                new PieChart.Data ("CBM 64", 40),
                 new PieChart.Data ("Oric 1", 40)
 
         );
